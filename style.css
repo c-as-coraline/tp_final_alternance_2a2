@@ -39,6 +39,15 @@ body
     margin: auto;
 }
 
+h1 {
+    color : red;
+}
+
+h2 {
+    color : green;
+}
+
+
 section h1, footer h1, nav a
 {
     font-family: Dayrom, serif;
